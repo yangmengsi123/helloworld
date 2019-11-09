@@ -28,7 +28,7 @@ public class BookManager {
      * @Description: 显示结果
      * @Param: [content]
      * @return: void
-     * @Author: Mr.Huang
+     * @Author: Miss.Yang
      * @Date: 2019/10/23 7:24 下午
      */
     public static void display(String content){
